@@ -144,3 +144,7 @@ After creating the models and routes, run npm run seed to seed data to your data
 
 Sync Sequelize to the Database on Server Start
 Create the code needed in server.js to sync the Sequelize models to the MySQL database on server start.
+
+Thank you for the submission Tyler, it appears that you are still working on this as you have moved the original develop files/folders from there and still are needing to put in the route code. If you need help with this make sure to reach out to your tutor, instructional staff, and/or the BCS learning assistants. Also once you have coded in the missing pieces, make sure to remember the walkthrough video. It is best to refer back to the README with the exact requirements as there are a few of them to ensure that you showcase each piece. Keep at it and don't give up, you can do this!!--Central Grader Shelby
+
+Unhandled rejection SequelizeAccessDeniedError: Access denied for user '"root";'@'localhost' (using password: YES)
